@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DallenCorry
 - 👀 I’m interested in Artificial inteligence, Virtual reality and complex binary systems
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Python and Swift
 - 📫 How to reach me dallenrobert@gmail.com 
 
 <!---
