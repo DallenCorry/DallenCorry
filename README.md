@@ -1,7 +1,7 @@
 Overview
 -----
 Hi! I’m Dallen Corry 😃
-- I’m interested in all things computer related, especially Artificial inteligence, Virtual reality
+- I’m interested in all things computer related, especially Artificial inteligence and Virtual reality
 - I’m currently learning Java, Python and C/C++ while enrolled at both Southern Utah University and Southwest Technical college.
 - How to reach me 
   - :email: Email: dallenrobert@gmail.com 
@@ -9,6 +9,15 @@ Hi! I’m Dallen Corry 😃
 Current Project:
 ----
 Meal calendar - a quick way to get a list of food to make for the week!
+
+Skills
+----
+<ul>
+<li>Object Oriented Programming</li>
+<li>Database Design</li>
+<li>Database Management</li>
+<li>Webpage Design and Layout</li>
+</ul>
 
 Interests
 ---
@@ -25,7 +34,7 @@ Interests
 <a href="https://www.instagram.com/dallencorry/"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/instagram.svg" alt="icon | Instagram" height=21></a>
 <a href="www.facebook.com/dallen.corry"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/facebook.png" alt="icon | Facebook" height=21></a>
 
-<!---
+<!--
 DallenCorry/DallenCorry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
