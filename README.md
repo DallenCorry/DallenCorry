@@ -8,7 +8,7 @@ Hi! I’m Dallen Corry 😃
 
 Current Projects:
 ----
-OddJob - an app for making a quick buck and asking for help with odd jobs around the house!
+OddJob - an app for making a quick buck and asking for help with odd jobs around the house!<br>
 Meal calendar - a quick way to get a list of food to make for the week!
 
 Skills
