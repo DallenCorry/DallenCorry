@@ -6,8 +6,9 @@ Hi! I’m Dallen Corry 😃
 - How to reach me 
   - :email: Email: dallenrobert@gmail.com 
 
-Current Project:
+Current Projects:
 ----
+OddJob - an app for making a quick buck and asking for help with odd jobs around the house!
 Meal calendar - a quick way to get a list of food to make for the week!
 
 Skills
