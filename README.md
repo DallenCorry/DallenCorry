@@ -1,8 +1,8 @@
 Overview
 -----
 Hi! I’m Dallen Corry 😃
-- I’m interested in all things computer related, especially Artificial inteligence and Virtual reality
-- I’m currently learning Java, Python and C/C++ while enrolled at both Southern Utah University and Southwest Technical college.
+- I’m interested in all things computer related, especially Artificial intelligence and Virtual reality
+- I’m currently learning Java, Python and C/C++ while enrolled at both Southern Utah University and Southwest Technical College.
 - How to reach me 
   - :email: Email: dallenrobert@gmail.com 
 
@@ -10,6 +10,11 @@ Current Projects:
 ----
 OddJob - an app for making a quick buck and asking for help with odd jobs around the house!<br>
 Meal calendar - a quick way to get a list of food to make for the week!
+
+Resume
+----
+A dedicated software engineer, committed to solving problems that benefit people individually and as a community. <br>
+[Official Resume](https://github.com/DallenCorry/DallenCorry/blob/main/Resume%20Dallen%20Corry.pdf) - Updated 10/31/2023
 
 Skills
 ----
