@@ -1,8 +1,8 @@
 Overview
 -----
 Hi! I’m Dallen Corry 😃
-- I’m interested in all things computer related, especially Artificial intelligence and Virtual reality
-- I’m currently learning Java, Python and C/C++ while enrolled at both Southern Utah University and Southwest Technical College.
+- I’m interested in all things computer-related, especially Artificial intelligence and Virtual reality
+- I’m currently learning Java, Haskell, Python, and C/C++ while enrolled at Southern Utah University. I am also a graduate of Southwest Technical College with a certificate in Software Development.
 - How to reach me 
   - :email: Email: dallenrobert@gmail.com 
 
@@ -19,10 +19,11 @@ A dedicated software engineer, committed to solving problems that benefit people
 Skills
 ----
 <ul>
-<li>Object Oriented Programming</li>
-<li>Database Design</li>
-<li>Database Management</li>
-<li>Webpage Design and Layout</li>
+  <li>Object Oriented Programming</li>
+  <li>Database Design</li>
+  <li>Database Management</li>
+  <li>Webpage Design and Layout</li>
+  <li>Visual Basic and Excel programming</li>
 </ul>
 
 Interests
