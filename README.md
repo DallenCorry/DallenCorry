@@ -37,7 +37,7 @@ Interests
 <img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/vrHeadset.png" alt="Image:book" height = 30> Virtual Reality
 
 
-<a href="www.linkedin.com/in/dallen-corry"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/linkedin.svg" alt="icon | LinkedIn" height=21></a>
+<a href="http://www.linkedin.com/in/dallen-corry"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/linkedin.svg" alt="icon | LinkedIn" height=21></a>
 <a href="https://www.instagram.com/dallencorry/"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/instagram.svg" alt="icon | Instagram" height=21></a>
 <a href="www.facebook.com/dallen.corry"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/facebook.png" alt="icon | Facebook" height=21></a>
 
