@@ -1,29 +1,30 @@
 Overview
 -----
-Hi! I’m Dallen Corry 😃
+Hi! I’m Dallen Corry
 - I’m interested in all things computer-related, especially Artificial intelligence and Virtual reality
-- I’m currently learning Java, Haskell, Python, and C/C++ while enrolled at Southern Utah University. I am also a graduate of Southwest Technical College with a certificate in Software Development.
+- I’m currently learning Java, Haskell, Python, and C/C++ while enrolled at Southern Utah University, Graduating Spring of 2024. I am also a graduate of Southwest Technical College with a certificate in Software Development.
 - How to reach me 
   - :email: Email: dallenrobert@gmail.com 
 
 Current Projects:
 ----
+Paiute Basket Museum - a Virtual Reality based Museum for Southern Utah University's collection of 3D scanned Paiute Baskets<br>
 OddJob - an app for making a quick buck and asking for help with odd jobs around the house!<br>
 Meal calendar - a quick way to get a list of food to make for the week!
 
 Resume
 ----
 A dedicated software engineer, committed to solving problems that benefit people individually and as a community. <br>
-[Official Resume](https://github.com/DallenCorry/DallenCorry/blob/main/Resume%20Dallen%20Corry.pdf) - Updated 10/31/2023
+[Official Resume](https://github.com/DallenCorry/DallenCorry/blob/main/Dallen_Cory_Resume.pdf) - Updated March 26, 2024
 
 Skills
 ----
 <ul>
   <li>Object Oriented Programming</li>
+  <li>Visual Basic and Excel programming</li>
   <li>Database Design</li>
   <li>Database Management</li>
   <li>Webpage Design and Layout</li>
-  <li>Visual Basic and Excel programming</li>
 </ul>
 
 Interests
