@@ -37,6 +37,9 @@ Interests
 <img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/playVideoIcon.png" alt="Image:book" height = 30> Action Movies
 <img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/vrHeadset.png" alt="Image:book" height = 30> Virtual Reality
 
+Links
+---
+All my links: <a href="https://linktr.ee/dallencorry">Linktree</a>
 
 <a href="http://www.linkedin.com/in/dallen-corry"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/linkedin.svg" alt="icon | LinkedIn" height=21></a>
 <a href="https://www.instagram.com/dallencorry/"><img src="https://github.com/DallenCorry/DallenCorry/blob/main/images/instagram.svg" alt="icon | Instagram" height=21></a>
